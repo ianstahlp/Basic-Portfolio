@@ -105,6 +105,12 @@ nav a {
 	text-transform: uppercase;
 }
 
+nav a:hover {
+
+	color: white;
+	transition: color .5s;
+}
+
 
 h2 {
 
@@ -137,7 +143,7 @@ h2 {
 /* Button Icons For Contact Me */
 
 img {
-	float: right;
+	float: left;
 	display: inline-block;
 	width: 75px;
 	list-style: none;
@@ -147,13 +153,14 @@ img {
 
 img:hover  {
 	
-	width: 100px;
+	width: 80px;
+	transition: .2s;
 
 }
 
 img:active {
 
-	width: 100px;
+	width: 78px;
 }
 
  li {
@@ -204,15 +211,55 @@ p {
 	margin-left: 20px;
 }
 
+
+
+
+/* portfolio content */
+
 .photo-portfolio img {
     width: 200px;
     height: 150px;
     flex-wrap: wrap;
     margin: 15px;
     padding-right: 22px;
+    
+    
 }
+
+
+
+
+
 
 .portfolio-overflow {
     width: 106%;
     height: 85%;
     overflow: scroll;
+
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+
+::-webkit-scrollbar-corner { 
+
+	color: #55d6aa;
+}
+
+::-webkit-scrollbar-track:horizontal {
+
+	display: none;
+
+}
+

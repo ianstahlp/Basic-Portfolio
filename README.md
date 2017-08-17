@@ -44,20 +44,20 @@ Citations
 	2. Same goes along with portfolio images. These will be changed when I have my own projects.
 
 ASCII Drawing of the read me. 
-````\\\\`````\\\\\``````\\\\
+-----------------------------
 
-		/\/\
-	    \/\/
-		____
-	   /OOOO\
-      /OOOOOO\
-     /OOOOOOOO\
-    /OOOO/ \OOO\
-   /OOOO/   \OOO\
-  /OOOO/     \OOO\
- /OOOO/       \OOO\
+				/\/\
+			    \/\/
+				____
+			   /OOOO\
+		      /OOOOOO\
+		     /OOOOOOOO\
+		    /OOOO/ \OOO\
+		   /OOOO/   \OOO\
+		  /OOOO/     \OOO\
+		 /OOOO/       \OOO\
 
-	It's a teepee. I'll get better at this, I swear. 
+			It's a teepee. I'll get better at this, I swear. 
 
 
 
