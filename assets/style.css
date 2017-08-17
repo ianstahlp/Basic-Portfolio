@@ -203,3 +203,16 @@ p {
 
 	margin-left: 20px;
 }
+
+.photo-portfolio img {
+    width: 200px;
+    height: 150px;
+    flex-wrap: wrap;
+    margin: 15px;
+    padding-right: 22px;
+}
+
+.portfolio-overflow {
+    width: 106%;
+    height: 85%;
+    overflow: scroll;
